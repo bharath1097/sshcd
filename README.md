@@ -24,3 +24,6 @@ It supports prepended flags, too!
 ```sh
 sshcd -v root@example.com:/lets/get/verbose
 ```
+lll
+aaa
+ddd
